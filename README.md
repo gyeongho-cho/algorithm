@@ -6,6 +6,3 @@ This repository contains my solutions and notes for various algorithm problems, 
 
 - [Baekjoon Online Judge (BOJ)](https://www.acmicpc.net/)
 - [Programmers](https://school.programmers.co.kr/)
-- [Softeer](https://softeer.ai/)
-- [LeetCode](https://leetcode.com/)
-
